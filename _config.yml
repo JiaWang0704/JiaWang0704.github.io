@@ -13,8 +13,9 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jia Wang
-  tagline: PhD student 
-  tagline: Dalian University of Technology
+  tagline:
+    - PhD student
+    - Dalian University of Technology
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -40,7 +41,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: jingyuanyang.jyy@gmail.com
+    email: jiawang0704@outlook.com
 
     # Mastodon instances
     # mastodon:
@@ -56,7 +57,7 @@ plainwhite:
 
 # Build settings
 # theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
+remote_theme: jiawang0704@outlook.com
 
 plugins:
   - jekyll-seo-tag
