@@ -15,6 +15,7 @@ plainwhite:
   name: Jia Wang
   tagline:
     - PhD student
+    
     - Dalian University of Technology
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
