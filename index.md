@@ -6,15 +6,14 @@ title: "Jingyuan Yang"
 # 个人简介
 ---
 
-王佳，大连理工大学在读博士。
-2013年至2017年于西安电子科技大学电子工程学院卓越工程师班就读本科，2017年至2022年保送本校直接攻读博士学位，期间获西北地区英语演讲比赛第一名、国家奖学金及陕西省优秀毕业生等荣誉。研究方向为计算机视觉，主要集中在视觉情感计算，目的是理解人类对不同视觉信息产生的情感体验，生成具有情感色彩的图片。
-
-担任中国图象图形学学会CSIG情感计算与理解专委会副秘书长、中国中文信息学会CIPS情感计算专委会委员、第一届CSIG情感智能大会视觉情感计算论坛执行主席。担任IEEE Transactions on Image Processing、IEEE Transactions on Multimedia、IEEE Transactions on Affective Computing、CVPR、ICCV、ACMMM等期刊会议审稿人。研究成果主要发表在计算机视觉顶级期刊IEEE Transactions on Image Processing和顶级会议CVPR、ICCV上。作为项目负责人主持：国家自然科学基金青年项目1项 (2024-2026)，广东省面上项目1项 (2023-2025)。获2023年度CSIG情感智能大会Best Poster Award，获2024年度CCF优秀图形开源数据集奖，获2024年度CVPR优秀审稿人。
+我目前为大连理工大学软件工程博士在读（预计2027毕业），导师为[樊鑫教授](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm)；2023年获重庆邮电大学计算机技术硕士学位，导师为[高新波教授](https://see.xidian.edu.cn/faculty/xbgao/)与[冷佳旭教授](https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index.htm)。研究方向聚焦计算机视觉与医学图像处理，主要包括医学图像分割与配准，以及图像/视频超分辨率。已在 CVPR、AAAI、ACM MM、TNNLS、IEEE BIBM Workshop 等会议/期刊发表或录用论文，并在推进 CVPR 、 MICCAI 、TMI投稿工作。
 
 # About Me
 ---
 
-I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017. 
+I am a Ph.D. student in Software Engineering at Dalian University of Technology (expected 2027), supervised by [Prof. Xin Fan](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm). I received my M.Sc. degree in Computer Technology from Chongqing University of Posts and Telecommunications in 2023, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/) and [Prof. Jiaxu Leng](https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index.htm). My research interests include Computer Vision and Medical Image Processing, with a focus on medical image segmentation and registration, as well as image/video super-resolution. I have published/accepted papers in venues such as CVPR, AAAI, ACM MM, TNNLS, and IEEE BIBM Workshop, and I am currently working on submissions to CVPR and ICME.
+
+<!-- I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017.  -->
 
 My research interest  is computer vision, affective computing and AIGC, currently with emphasis on affective image manipulation. 
 
