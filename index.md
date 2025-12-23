@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jingyuan Yang"
+title: "Jia Wang"
 ---
 
 # 个人简介
@@ -24,81 +24,41 @@ My research interest  is computer vision, medical image analysis, currently with
 # News
 ---
 
-- &#128293; <span style="color: black; font-weight: bold;">**2025.09.25**</span>: **Proud of Jiawei for receiving the China National Scholarship!** &#127942;
+<!-- - &#128293; <span style="color: black; font-weight: bold;">**2025.09.25**</span>: **Proud of Jiawei for receiving the China National Scholarship!** &#127942;
 - &#128293; <span style="color: black; font-weight: bold;">**2025.02.27**</span>: **EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin!** &#127881;
 - **2024.12.07**: I started to serve as the Deputy Secretary-General of the CSIG Technical Committee on Affective Computing and Understanding. &#128084;
 - **2024.08.08**: EmoSet has won the Graphic Open Source Dataset Award (CCF CAD&CG 2024). &#127942;
 - **2024.02.27**: EmoGen has been accepted to CVPR 2024. Congrats to Jiawei! &#127881;
 - **2023.11.26**: One paper has won the Best Poster Award (CSIG CEI 2023). &#127942;
 - **2023.11.25**: I served as the Executive Chair of the visual emotion forum in the 2023 CSIG Conference on Emotional Intelligence. &#128084;
-- **2023.07.14**: EmoSet has been accepted to ICCV 2023. Congrats to Qirui and Tingting! &#127881;
+- **2023.07.14**: EmoSet has been accepted to ICCV 2023. Congrats to Qirui and Tingting! &#127881; -->
 
 # Publications
 ---
 
-- **EmoEdit: Evoking Emotions through Image Manipulation**
-    <br>**Jingyuan Yang**, Jiawei Feng, Weibin Luo, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
-    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 24690-24699, 2025
-    <br>\[[Project page](https://vcc.tech/research/2025/EmoEdit)\]\[[Code](https://github.com/JingyuanYY/EmoEdit)\]\[[PDF](https://arxiv.org/pdf/2405.12661)\]\[[机器之心推文](https://mp.weixin.qq.com/s/EQGA5NXOzArFRYQ63IQ1kA)\]
-    
-    <div align="center">
-    <img src="../assets/7.png" width="70%">
-    </div>
+- **A Hybrid Space Model for Misaligned Multi-modality Image Fusion.**
+  <br>Yi Xiao, **Jia Wang**, Zhu Liu, Di Wang, Jinyuan Liu, Risheng Liu\*
+  <br>Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (Accepted)
 
-- **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
-    <br>**Jingyuan Yang**, Jiawei Feng, and Hui Huang\*
-    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 6358-6368, 2024
-    <br>\[[Project page](https://vcc.tech/research/2024/EmoGen)\]\[[Code](https://github.com/JingyuanYY/EmoGen)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_EmoGen_Emotional_Image_Content_Generation_with_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html)\]
-    
-    <div align="center">
-    <img src="../assets/6.png" width="70%">
-    </div>
+- **FedSR: Personalizing Federated Learning Guided by Site-aggregated Representation for Multi-site One-shot Medical Image Segmentation.**
+  <br>**Jia Wang**, Risheng Liu\*, et al.
+  <br>IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**) Workshop, 2025
 
-- **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
-    <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
-    <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), 20383-20394, 2023
-    <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_EmoSet_A_Large-scale_Visual_Emotion_Dataset_with_Rich_Attributes_ICCV_2023_paper.html)\]
-    
-    <div align="center">
-    <img src="../assets/5.jpg" width="90%">
-    </div>
+- **Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Segmentation.**
+  <br>Xin Fan, Xiaolin Wang, Jiaxin Gao, **Jia Wang**, Zhongxuan Luo, Risheng Liu\*
+  <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+  <br>[[Project page](https://bi-jros.github.io/)] [[Code](https://github.com/Coradlut/Bi-JROS)] [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Bi-level_Learning_of_Task-Specific_Decoders_for_Joint_Registration_and_One-Shot_CVPR_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Fan_Bi-level_Learning_of_CVPR_2024_supplemental.pdf)]
 
-- **Seeking Subjectivity in Visual Emotion Distribution Learning** 
-    <br>**Jingyuan Yang**, Jie Li, Leida Li, Xiumei Wang, Yuxuan Ding, and Xinbo Gao\*
-    <br>IEEE Transactions on Image Processing (**TIP**), 31, 5189-5202, 2022
-    <br>[[Code](https://github.com/JingyuanYY/SAMNet)\]\[[PDF](https://ieeexplore.ieee.org/abstract/document/9846869)\]
-    
-    <div align="center">
-    <img src="../assets/4.png" width="70%">
-    </div>
+- **Difficulty-Guided Variant Degradation Learning for Blind Image Super-Resolution.**
+  <br>Jiaxu Leng, **Jia Wang**, Mengjingcheng Mo, Ji Gan, Wen Lu, Xinbo Gao\*
+  <br>IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024
+  <br>[[Code](https://github.com/JiaWang0704/DDL-BSR)] [[DOI](https://doi.org/10.1109/TNNLS.2024.3451997)]
 
-- **A Circular-Structured Representation for Visual Emotion Distribution Learning** 
-    <br>**Jingyuan Yang**, Jie Li, Leida Li, Xiumei Wang, and Xinbo Gao\*
-    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 4237-4246, 2021
-    <br>[[Code](https://github.com/JingyuanYY/Circular-structured-representation)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_A_Circular-Structured_Representation_for_Visual_Emotion_Distribution_Learning_CVPR_2021_paper.html)\]
-    
-    <div align="center">
-    <img src="../assets/3.png" width="70%">
-    </div>
+- **ICNet: Joint Alignment and Reconstruction via Iterative Collaboration for Video Super-Resolution.**
+  <br>**Jia Wang**, Zhen Yang, Haoran Li, Qi Zhang, Di Wang, Risheng Liu\*
+  <br>ACM International Conference on Multimedia (**ACM MM**), 2022
+  <br>[[ACM DL](https://dl.acm.org/doi/10.1145/3503161.3547841)]
 
-- **SOLVER: Scene-Object Interrelated Visual Emotion Reasoning Network** 
-    <br>**Jingyuan Yang**, Xinbo Gao\*, Leida Li, Xiumei Wang, and Jinshan Ding
-    <br>IEEE Transactions on Image Processing (**TIP**), 30, 8686-8701, 2021
-    <br>[[Code](https://github.com/JingyuanYY/SOLVER)\]\[[PDF](https://ieeexplore.ieee.org/abstract/document/9580604)\]
-    
-    <div align="center">
-    <img src="../assets/2.png" width="70%">
-    </div>
-
-- **Stimuli-Aware Visual Emotion Analysis** 
-    <br>**Jingyuan Yang**, Jie Li, Xiumei Wang, Yuxuan Ding, and Xinbo Gao\*
-    <br>IEEE Transactions on Image Processing (**TIP**), 30, 7432-7445, 2021
-    <br>[[Code](https://github.com/JingyuanYY/Stimuli-aware-VEA)\]\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9524517)\]
-    
-    <div align="center">
-    <img src="../assets/1.png" width="70%">
-    </div>
-    
 
 # Awards
 ---
