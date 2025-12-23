@@ -33,7 +33,7 @@ My research interest  is computer vision, medical image analysis, currently with
 ---
 
 - **A Hybrid Space Model for Misaligned Multi-modality Image Fusion.**
-  <br>Yi Xiao, **Jia Wang**, Zhu Liu, Di Wang, Jinyuan Liu, Risheng Liu\*
+  <br>Yi Xiao, **Jia Wang (co-first author)**, Zhu Liu, Di Wang, Jinyuan Liu, Risheng Liu\*
   <br>Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (Accepted)
 
 - **FedSR: Personalizing Federated Learning Guided by Site-aggregated Representation for Multi-site One-shot Medical Image Segmentation.**
