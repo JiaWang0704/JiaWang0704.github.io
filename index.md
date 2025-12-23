@@ -11,11 +11,11 @@ title: "Jingyuan Yang"
 # About Me
 ---
 
-I am a Ph.D. student in Software Engineering at Dalian University of Technology (expected 2027), supervised by [Prof. Xin Fan](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm). I received my M.Sc. degree in Computer Technology from Chongqing University of Posts and Telecommunications in 2023, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/) and [Prof. Jiaxu Leng](https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index.htm). My research interests include Computer Vision and Medical Image Processing, with a focus on medical image segmentation and registration, as well as image/video super-resolution. I have published/accepted papers in venues such as CVPR, AAAI, ACM MM, TNNLS, and IEEE BIBM Workshop, and I am currently working on submissions to CVPR and ICME.<span style="color:red; font-weight:bold; font-style:italic;">Join us in exploration! Invitation for undergraduate and graduate research collaborators.</span>
+I am a Ph.D. student in Software Engineering at Dalian University of Technology (expected 2027), supervised by [Prof. Xin Fan](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm). I received my M.Sc. degree in Computer Technology from Chongqing University of Posts and Telecommunications in 2023, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/) and [Prof. Jiaxu Leng](https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index.htm). My research interests include Computer Vision and Medical Image Processing, with a focus on medical image segmentation and registration, as well as image/video super-resolution. I have published/accepted papers in venues such as CVPR, AAAI, ACM MM, TNNLS, and IEEE BIBM Workshop, and I am currently working on submissions to CVPR and ICME. <span style="color:red; font-weight:bold; font-style:italic;">Join us in exploration! Invitation for undergraduate and graduate research collaborators.</span>
 
 <!-- I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017.  -->
 
-My research interest  is computer vision, affective computing and AIGC, currently with emphasis on affective image manipulation. 
+My research interest  is computer vision, medical image analysis, currently with medical image segmentation and foundation model. 
 
 - **I am looking for master students who are motivated, self-disciplined and optimistic.** &#10024;
 - **I am also expecting undergraduate students to contact me with your graduation projects.** &#129412;
@@ -99,77 +99,11 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <img src="../assets/1.png" width="70%">
     </div>
     
-# Fundings
----
-- **National Natural Science Foundation of China, Young Scientists Program** (Hosted, 2024-2026)
-- **Natural Science Foundation of Guangdong Province, General Program** (Hosted, 2023-2025)
-
-# Courses
----
-
-- **Introduction to Visualization (可视化信息处理导论)** – Undergraduate Course
-- **Professional English (专业英语)** – Undergraduate Course
-- **Machine Learning (机器学习)** – Graduate Course
-    
 
 # Awards
 ---
 
-- **Graphic Open Source Dataset Award**, by CCF CAD&CG, 2024
-- **Best Poster Award**, by CSIG CEI, 2023
-- **Outstanding Graduate of Shaanxi Province**, by Education Department of Shaanxi Provincial Government, 2022
-- **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015 & 2021
-- **Speaking as the only student representative at the 90th Anniversary Celebration of Xidian University**, 2021
+- Academic Excellence Scholarship (2018-2019, 2020-2021)
+- Outstanding Graduating Graduate Student (Municipal-level, Chongqing City)
 
-# Hobbies
----
-
-- **English Speech** (First place in the Northwest Region Postgraduate English Speech Contest)
-- **Badminton** (Women's singles champion in the Freshmen Cup at Xidian Univeristy)
-- **Piano** (Amateur six level certificate of piano)
-
-# Group
----
-<center>
-  <h3 style="margin-bottom: 20px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
-</center>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-  <!-- 成员卡片 -->
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/jiawei.jpg" alt="Jiawei" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Jiawei Feng</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2023-present</p>
-  </div>
-
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/weibin.jpg" alt="Weibin" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Weibin Luo</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
-  </div>
-
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/zihuan.jpg" alt="Zihuan" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Zihuan Bai</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
-  </div>
-
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/rucong.jpg" alt="Rucong" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Rucong Chen</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
-  </div>
-
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/jiaxi.jpg" alt="Ruoji" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Ruoji Wang</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
-  </div>
-
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/ruoji.jpg" alt="Jiaxi" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Jiaxi Zhao</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
-  </div>
-</div>
 
