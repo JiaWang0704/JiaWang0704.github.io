@@ -17,10 +17,6 @@ I am a Ph.D. student in Software Engineering at Dalian University of Technology 
 
 My research interest  is computer vision, medical image analysis, currently with medical image segmentation and foundation model. 
 
-- **I am looking for master students who are motivated, self-disciplined and optimistic.** &#10024;
-- **I am also expecting undergraduate students to contact me with your graduation projects.** &#129412;
-- <b>Contact me: jyyang@szu.edu.cn &#129303; </b>
-
 # News
 ---
 
