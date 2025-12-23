@@ -41,7 +41,7 @@ My research interest  is computer vision, medical image analysis, currently with
   <br>IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**) Workshop, 2025
 
 - **Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Segmentation.**
-  <br>Xin Fan, Xiaolin Wang, Jiaxin Gao, **Jia Wang**, Zhongxuan Luo, Risheng Liu\*
+  <br>Xin Fan\*, Xiaolin Wang, Jiaxin Gao, **Jia Wang**, Zhongxuan Luo, Risheng Liu
   <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
   <br>[[Project page](https://bi-jros.github.io/)] [[Code](https://github.com/Coradlut/Bi-JROS)] [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Bi-level_Learning_of_Task-Specific_Decoders_for_Joint_Registration_and_One-Shot_CVPR_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Fan_Bi-level_Learning_of_CVPR_2024_supplemental.pdf)]
 
