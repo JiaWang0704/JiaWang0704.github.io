@@ -17,8 +17,8 @@ I am a Ph.D. student in Software Engineering at Dalian University of Technology 
 
 My research interest  is computer vision, medical image analysis, currently with medical image segmentation and foundation model. 
 
-# News
----
+<!-- # News
+--- -->
 
 <!-- - &#128293; <span style="color: black; font-weight: bold;">**2025.09.25**</span>: **Proud of Jiawei for receiving the China National Scholarship!** &#127942;
 - &#128293; <span style="color: black; font-weight: bold;">**2025.02.27**</span>: **EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin!** &#127881;
