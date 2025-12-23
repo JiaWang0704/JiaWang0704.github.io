@@ -13,7 +13,8 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jia Wang
-  tagline: PhD student @ North China \\ Dalian University of Technology
+  tagline: PhD student 
+  tagline: Dalian University of Technology
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -28,7 +29,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  JingyuanYY
+    github:  JiaWang0704
     #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
