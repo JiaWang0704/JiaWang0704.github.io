@@ -37,7 +37,7 @@ My research interest  is computer vision, medical image analysis, currently with
   <br>Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (Accepted)
 
 - **FedSR: Personalizing Federated Learning Guided by Site-aggregated Representation for Multi-site One-shot Medical Image Segmentation.**
-  <br>**Jia Wang**, Yuchen Sun, Jinyuan Liu, Xin Fan\*.
+  <br>**Jia Wang**, Yuchen Sun, Yunan Mei, Zihao Xu, Xin Fan\*.
   <br>IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**) Workshop, 2025
 
 - **Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Segmentation.**
