@@ -38,7 +38,7 @@ My research interest  is computer vision, medical image analysis, currently with
 
 - **FedSR: Personalizing Federated Learning Guided by Site-aggregated Representation for Multi-site One-shot Medical Image Segmentation.**
   <br>**Jia Wang**, Yuchen Sun, Yunan Mei, Zihao Xu, Xin Fan\*.
-  <br>IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**) Workshop, 2025
+  <br>IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**), 2025
 
 - **Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Segmentation.**
   <br>Xin Fan\*, Xiaolin Wang, Jiaxin Gao, **Jia Wang**, Zhongxuan Luo, Risheng Liu
