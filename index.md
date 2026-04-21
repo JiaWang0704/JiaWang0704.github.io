@@ -46,7 +46,7 @@ My research interest  is computer vision, medical image analysis, currently with
   <br>[[Project page](https://bi-jros.github.io/)] [[Code](https://github.com/Coradlut/Bi-JROS)] [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Bi-level_Learning_of_Task-Specific_Decoders_for_Joint_Registration_and_One-Shot_CVPR_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Fan_Bi-level_Learning_of_CVPR_2024_supplemental.pdf)]
 
 - **Difficulty-Guided Variant Degradation Learning for Blind Image Super-Resolution.**
-  <br>Jiaxu Leng, **Jia Wang**, Mengjingcheng Mo, Ji Gan, Wen Lu, Xinbo Gao\*
+  <br>Jiaxu Leng, **Jia Wang(co-first author)**, Mengjingcheng Mo, Ji Gan, Wen Lu, Xinbo Gao\*
   <br>IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024
   <br>[[Code](https://github.com/JiaWang0704/DDL-BSR)] [[DOI](https://doi.org/10.1109/TNNLS.2024.3451997)]
 
