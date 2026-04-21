@@ -6,7 +6,7 @@ title: "Jia Wang"
 # 个人简介
 ---
 
-我目前为大连理工大学软件工程博士在读（预计2027毕业），导师为[樊鑫教授](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm)；2023年获重庆邮电大学计算机技术硕士学位，导师为[高新波教授](https://see.xidian.edu.cn/faculty/xbgao/)与[冷佳旭教授](https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index.htm)。研究方向聚焦计算机视觉与医学图像处理，主要包括医学图像分割与配准，以及图像/视频超分辨率。已在 CVPR、AAAI、ACM MM、TNNLS、IEEE BIBM Workshop 等会议/期刊发表或录用论文，并在推进 CVPR 、 MICCAI 、TMI投稿工作。<span style="color:red; font-weight:bold; font-style:italic;">诚邀本科生、研究生共赴探索之旅。</span>
+我目前为大连理工大学软件工程博士在读（预计2027毕业），导师为[樊鑫教授](https://faculty.dlut.edu.cn/Xin_Fan/zh_CN/index.htm)；2023年获重庆邮电大学计算机技术硕士学位，导师为[高新波教授](https://see.xidian.edu.cn/faculty/xbgao/)与[冷佳旭教授](https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index.htm)。研究方向聚焦计算机视觉与医学图像处理，主要包括医学图像分割与配准，以及图像/视频超分辨率。已在 CVPR、AAAI、ACM MM、TNNLS、IEEE BIBM等会议/期刊发表或录用论文，并在推进 CVPR 、 MICCAI 、TMI投稿工作。<span style="color:red; font-weight:bold; font-style:italic;">诚邀本科生、研究生共赴探索之旅。</span>
 
 # About Me
 ---
