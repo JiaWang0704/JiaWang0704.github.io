@@ -57,7 +57,7 @@ My research interest  is computer vision, medical image analysis, currently with
 - **ICNet: Joint Alignment and Reconstruction via Iterative Collaboration for Video Super-Resolution.**
   <br>Jiaxu Leng, **Jia Wang**, Xinbo Gao, Bo Hu, Ji Gan, Chengqiang Gao.\*. 
   <br>ACM International Conference on Multimedia (**ACM MM**), 2022
-  <br>[[ACM DL](https://dl.acm.org/doi/10.1145/3503161.3547841)]
+  <br>[[ACM DL](https://dl.acm.org/doi/abs/10.1145/3503161.3547994)]
 
 
 # Awards
@@ -65,4 +65,3 @@ My research interest  is computer vision, medical image analysis, currently with
 
 - Academic Excellence Scholarship (2018-2019, 2020-2021)
 - Outstanding Graduating Graduate Student (Municipal-level, Chongqing City)
-
