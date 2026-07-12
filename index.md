@@ -39,10 +39,12 @@ My research interest  is computer vision, medical image analysis, currently with
 - **A Hybrid Space Model for Misaligned Multi-modality Image Fusion.**
   <br>Yi Xiao, **Jia Wang (co-first author)**, Zhu Liu, Di Wang, Jinyuan Liu, Risheng Liu\*
   <br>Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (Accepted)
+  <br>[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/38078)] [[Code](https://github.com/xiao-eee/HMMF)]
 
 - **FedSR: Personalizing Federated Learning Guided by Site-aggregated Representation for Multi-site One-shot Medical Image Segmentation.**
   <br>**Jia Wang**, Yuchen Sun, Yunan Mei, Zihao Xu, Xin Fan\*.
   <br>IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**), 2025
+  <br>[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11356974)]
 
 - **Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Segmentation.**
   <br>Xin Fan\*, Xiaolin Wang, Jiaxin Gao, **Jia Wang**, Zhongxuan Luo, Risheng Liu
