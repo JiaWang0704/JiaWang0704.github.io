@@ -57,7 +57,7 @@ My research interest  is computer vision, medical image analysis, currently with
   <br>[[Code](https://github.com/JiaWang0704/DDL-BSR)] [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10709871)]
 
 - **ICNet: Joint Alignment and Reconstruction via Iterative Collaboration for Video Super-Resolution.**
-  <br>Jiaxu Leng, **Jia Wang**, Xinbo Gao, Bo Hu, Ji Gan, Chengqiang Gao.\*. 
+  <br>Jiaxu Leng, **Jia Wang**, Xinbo Gao\*, Bo Hu, Ji Gan, Chengqiang Gao.
   <br>ACM International Conference on Multimedia (**ACM MM**), 2022
   <br>[[ACM DL](https://dl.acm.org/doi/abs/10.1145/3503161.3547994)]
 
