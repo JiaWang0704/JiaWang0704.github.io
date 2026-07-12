@@ -33,7 +33,7 @@ My research interest  is computer vision, medical image analysis, currently with
 ---
 
 - **H<sup>2</sup>AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation.**
-  <br>**Jia Wang**, Jiaming Cai, Zunying Hu, Zhanjie Wu, Jinyuan Liu, Hua Cheng, Yun Peng, Xin Fan
+  <br>**Jia Wang**, Jiaming Cai, Zunying Hu, Zhanjie Wu, Jinyuan Liu, Hua Cheng, Yun Peng, Xin Fan\*
   <br>ACM International Conference on Multimedia (**ACM MM**), 2026 (Accepted)
 
 - **A Hybrid Space Model for Misaligned Multi-modality Image Fusion.**
