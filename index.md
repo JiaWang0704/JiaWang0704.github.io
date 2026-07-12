@@ -52,7 +52,7 @@ My research interest  is computer vision, medical image analysis, currently with
 - **Difficulty-Guided Variant Degradation Learning for Blind Image Super-Resolution.**
   <br>Jiaxu Leng, **Jia Wang (co-first author)**, Mengjingcheng Mo, Ji Gan, Wen Lu, Xinbo Gao\*
   <br>IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024
-  <br>[[Code](https://github.com/JiaWang0704/DDL-BSR)] [[DOI](https://doi.org/10.1109/TNNLS.2024.3451997)]
+  <br>[[Code](https://github.com/JiaWang0704/DDL-BSR)] [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10709871)]
 
 - **ICNet: Joint Alignment and Reconstruction via Iterative Collaboration for Video Super-Resolution.**
   <br>Jiaxu Leng, **Jia Wang**, Xinbo Gao, Bo Hu, Ji Gan, Chengqiang Gao.\*. 
