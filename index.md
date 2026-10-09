@@ -35,6 +35,7 @@ My research interest  is computer vision, medical image analysis, currently with
 - **H<sup>2</sup>AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation.**
   <br>**Jia Wang**, Jiaming Cai, Zunying Hu, Zhanjie Wu, Jinyuan Liu, Hua Cheng, Yun Peng, Xin Fan\*
   <br>ACM International Conference on Multimedia (**ACM MM**), 2026 (Accepted)
+  <br>[[arXiv](https://arxiv.org/abs/2608.07340)] [[Code](https://github.com/JiamingCai469/H2AL)]
 
 - **Clinical 2D MRI radiomics for infant brain age and trajectory modeling.**
   <br>Huanyu Luo, Huanjie Li, Siting Xiong, Rui Wang, Ziyang Li, **Jia Wang**, Di Hu, Hang Li, Sami Kari-Pekka Äyrämö, Hao Huang\*, Xin Fan\*, Yun Peng\*
