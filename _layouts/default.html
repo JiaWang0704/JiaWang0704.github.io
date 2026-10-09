@@ -35,6 +35,16 @@
       {% capture footer %}
       {%- if site.plainwhite.social_links != '' -%}
       <ul class="social about-footer {{condensed_class}}">
+        {%- if site.plainwhite.social_links.google_scholar -%}
+        <a href="{{ site.plainwhite.social_links.google_scholar }}" target="_blank" aria-label="Google Scholar" title="Google Scholar">
+          <li>
+            <svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true" focusable="false">
+              <path fill="currentColor" d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zm0 8.72L5.16 8 12 4.28 18.84 8 12 11.72z"/>
+              <path fill="currentColor" d="M6.5 12.5v3.1c0 1.84 2.46 3.4 5.5 3.4s5.5-1.56 5.5-3.4v-3.1L12 15.5l-5.5-3z"/>
+            </svg>
+          </li>
+        </a>
+        {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
         <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank">
           <li>

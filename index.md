@@ -36,6 +36,11 @@ My research interest  is computer vision, medical image analysis, currently with
   <br>**Jia Wang**, Jiaming Cai, Zunying Hu, Zhanjie Wu, Jinyuan Liu, Hua Cheng, Yun Peng, Xin Fan\*
   <br>ACM International Conference on Multimedia (**ACM MM**), 2026 (Accepted)
 
+- **Clinical 2D MRI radiomics for infant brain age and trajectory modeling.**
+  <br>Huanyu Luo, Huanjie Li, Siting Xiong, Rui Wang, Ziyang Li, **Jia Wang**, Di Hu, Hang Li, Sami Kari-Pekka Äyrämö, Hao Huang\*, Xin Fan\*, Yun Peng\*
+  <br>iScience, 2026
+  <br>[[iScience](https://www.sciencedirect.com/science/article/pii/S2589004226019991)] [[PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13393831/)]
+
 - **A Hybrid Space Model for Misaligned Multi-modality Image Fusion.**
   <br>Yi Xiao, **Jia Wang (co-first author)**, Zhu Liu, Di Wang, Jinyuan Liu, Risheng Liu\*
   <br>Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (Accepted)

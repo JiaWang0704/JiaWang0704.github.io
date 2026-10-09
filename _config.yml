@@ -28,6 +28,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
+    google_scholar: "https://scholar.google.com/citations?user=UNXTe-4AAAAJ&hl=zh-CN"
     github:  JiaWang0704
     #linkedIn: in/samarsault
     #dribbble: jekyll
